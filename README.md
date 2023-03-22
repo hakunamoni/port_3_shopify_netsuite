@@ -5,17 +5,20 @@
 ## Requirement
 
 ```bash
-- Orders sync from ShipStation to NetSuite
-- Create item fulfillments from ShipStation in NetSuite
+  Orders sync from Shopify to NetSuite using SuiteScript 2.0
 
 ```
 
-![demo](/img/image_uploaded_from_ios.jpg)
-
 ## Running Results
 
-![plp_cell](/img/screenshot_20170815_223507.jpg)
+![plp_cell](/img/image.png)
 
-![plp_cell](/img/screenshot_20170824_185602.jpg)
+![plp_cell](/img/screenshot_20200910_170341.png)
 
-![plp_cell](/img/screenshot_20180723_044846.png)
+![plp_cell](/img/screenshot_20200915_235452.jpg)
+
+![plp_cell](/img/screenshot_20200915_235723.png)
+
+![plp_cell](/img/screenshot_20200915_235806.jpg)
+
+![plp_cell](/img/screenshot_20200915_235835.jpg)
